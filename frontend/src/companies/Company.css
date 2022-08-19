@@ -1,0 +1,27 @@
+.company-list {
+    margin: 20px;
+    padding: 10px;
+}
+
+.company-card {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 4px;
+    padding: 10px;
+}
+
+.company-card a {
+    color: black;
+    text-decoration: none;
+}
+
+.company-card:hover {
+    background-color: rgb(169, 224, 249);
+}
+
+.company-detail {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
